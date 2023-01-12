@@ -92,7 +92,10 @@ main h1 {
     color:  var(--cor3);
     font-family: var(--fonte-android);
     font-size: 2em;
+    max-width: 80%;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 30px;
 }
 main h2 {
